@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SieveOfEratosthenesComputation
+comment0.text=\r\n\ Class\ for\ computing/generating\ prime\ numbers\ using\ Sieve\ OF\ Eratosthenes.\r\n\ 11/07/2022\r\n
+comment1.params=max
+comment1.target=java.util.List\ generatePrimes(int)
+comment1.text=\r\n\ Generates\ a\ list\ of\ prime\ numbers\r\n\ max\ \=\ any\ number\ that\ check\ its\ prime\r\n
+numComments=2
